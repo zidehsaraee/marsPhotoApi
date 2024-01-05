@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marsPhotoApi/static/css/main.473c49ea.css",
+    "main.js": "/marsPhotoApi/static/js/main.5812d723.js",
+    "index.html": "/marsPhotoApi/index.html",
+    "main.473c49ea.css.map": "/marsPhotoApi/static/css/main.473c49ea.css.map",
+    "main.5812d723.js.map": "/marsPhotoApi/static/js/main.5812d723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473c49ea.css",
+    "static/js/main.5812d723.js"
+  ]
+}
