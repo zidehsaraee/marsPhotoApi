@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: #8ecae6;
+}
+
+.App h1 {
+  text-align: center;
+  padding: 20px;
+  color: #023047;
+}
+
+.App .photoWrap {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
